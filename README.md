@@ -19,19 +19,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/jawadaliamjad" target="blank">
+  <a href="https://twitter.com/Jawad_Ali1133" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jawadaliamjad" height="30" width="40" />
   </a>
-  <a href="https://fb.com/jawadali" target="blank">
+  <a href="https://www.facebook.com/share/156aS9Zm5b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jawadali" height="30" width="40" />
   </a>
   <a href="https://instagram.com/jawadaliamjad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jawadaliamjad" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/jawadaliamjad" target="blank">
+  <a href="https://youtube.com/@jawad487?si=epBqlHJYRVK1w5LZ" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jawadaliamjad" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/jawadali1113" target="blank">
+  <a href="https://leetcode.com/u/jawadaliamjadali664/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jawadali1113" height="30" width="40" />
   </a>
 </p>
@@ -112,9 +112,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jawadali1133&show_icons=true&locale=en&count_private=true&theme=radical" alt="jawadali1133" />
 </p>
 
-<h3 align="left">My GitHub Contributions:</h3>
+<h3 align="left">The Languages I used the most:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadali1133&theme=radical" alt="jawadali1133" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadali1133&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -133,7 +133,7 @@
 <p align="center">
   <ul style="list-style-type: none; font-size: 1.1em; line-height: 1.8;">
     <li>🐍 I’ve been working with <b>Python</b> for over <b>2 years</b>!</li>
-    <li>💻 I love <b>coding challenges</b> on <a href="https://leetcode.com/jawadali1113/" target="_blank"><b>LeetCode</b></a>.</li>
+    <li>💻 I love <b>coding challenges</b> on <a href="https://leetcode.com/jawadaliamjadali664/" target="_blank"><b>LeetCode</b></a>.</li>
     <li>🔍 I enjoy <b>exploring new tech stacks</b>, especially around <b>AI</b> and <b>ML</b>.</li>
   </ul>
 </p>
